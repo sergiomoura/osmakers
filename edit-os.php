@@ -15,7 +15,7 @@ if ($_POST) {
   // Executar consulta
 
   // Redirecionar para a lista de OSs (index.php);
-  s
+  
 }
 
 ?>
